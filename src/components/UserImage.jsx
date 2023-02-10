@@ -8,7 +8,7 @@ const UserImage = ({image,size = "60px"}) => {
                 width={size}
                 height={size}
                 alt="user"
-                src={`https://project4.woodsford.online/assets/${image}`}
+                src={`https://sociopedia-awoodsford.b4a.run/assets/${image}`}
             />
             
         </Box>
